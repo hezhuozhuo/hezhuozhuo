@@ -27,8 +27,6 @@
   <img alt="mqtt" src="https://img.shields.io/badge/-mqtt-42B983"/>
   <img alt="modbus" src="https://img.shields.io/badge/-modbus-orange"/>
   <img alt="opc" src="https://img.shields.io/badge/-opc.ua-red"/>
-  
-  
 </p>
 <p align="center">
   <a href="https://github.com/hezhuozhuo">
