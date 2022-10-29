@@ -7,7 +7,7 @@
   <a href="https://docs.github.com/free-pro-team@latest/actions"><img alt="Github Actions" src="https://img.shields.io/badge/-Github Actions-2088FF?logo=github-actions&logoColor=white&style="/></a>
   <a href="https://www.vim.org/"><img alt="Vim" src="https://img.shields.io/badge/-Vim-019733?logo=Vim&logoColor=white&style="/></a>
   
-  <a href="https://www.java.com/"><img alt="java" src="https://img.shields.io/badge/-java-007396?logo=java&logoColor=white&style="/></a>
+  <a href="https://www.java.com/"><img alt="Java" src="https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white&style="/></a>
   
   <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style="/></a>
   
@@ -21,7 +21,7 @@
   <a href="https://nodejs.org/"><img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853D?logo=Node.js&logoColor=white&style="/></a>
   <a href="http://expressjs.com"><img alt="express" src="https://img.shields.io/badge/-express-42B983?logo=express&logoColor=white&style="/></a>
   <a href="https://www.npmjs.com"><img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style="/></a>
-  <a href="https://pm2.io)"><img alt="pm2" src="https://img.shields.io/badge/-pm2-CB3837?logo=pm2&logoColor=white&style="/></a>
+  <a href="https://pm2.io"><img alt="pm2" src="https://img.shields.io/badge/-pm2-CB3837?logo=pm2&logoColor=white&style="/></a>
   
   <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-14AA52?logo=mongodb&logoColor=white&style="/></a>
   <a href="https://dev.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4579A1?logo=MySQL&logoColor=white&style="/></a>
