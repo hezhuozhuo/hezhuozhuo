@@ -21,6 +21,7 @@
   <a href="https://www.vim.org/"><img alt="Vim" src="https://img.shields.io/badge/-Vim-019733?logo=Vim&logoColor=white&style="/></a>
   <a href="https://redis.io/"><img alt="redis" src="https://img.shields.io/badge/-redis-red?logo=redis&logoColor=white&style="/></a>
   <a href="https://www.postgresql.org/"><img alt="redis" src="https://img.shields.io/badge/-postgresql-blue?logo=postgresql&logoColor=white&style="/></a>
+  <a href="https://www.sqlite.org/"><img alt="sqlite" src="https://img.shields.io/badge/-sqlite-blue?logo=sqlite&logoColor=white&style="/></a>
 </p>
 <p>
   <img alt="IoT" src="https://img.shields.io/badge/%E7%89%A9%E8%81%94%E7%BD%91-IoT-blue"/>
