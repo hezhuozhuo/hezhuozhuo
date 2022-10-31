@@ -23,6 +23,7 @@
   <!--django--><a href="https://www.djangoproject.com/"><img alt="Django" src="https://img.shields.io/badge/-Django-092E20?logo=Django&logoColor=white"/></a>
   <!-- --><br>
   <!--golang--><a href="https://golang.org/"><img alt="Go" src="https://img.shields.io/badge/-Go-00ACD7?logo=go&logoColor=white"/></a>
+  <!--beego--><a href="https://beego.gocn.vip/beego/zh"><img alt="beego" src="https://img.shields.io/badge/-beego-000000?logo=beego&logoColor=white"/></a>
   <!-- --><br>
   <!--JavaScript--><a href="https://developer.mozilla.org/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white"/></a>
   <!--html5--><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img alt="html5" src="https://img.shields.io/badge/-html5-E44D26?logo=html5&logoColor=white"/></a>
